@@ -1,3 +1,5 @@
+* [首页](/)
+
 * 编程语言
     * java
         * [guide](java/gui)
