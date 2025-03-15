@@ -20,7 +20,8 @@
     * mq
 
 * 数据库
-
+    * [mysql事务](db/mysql事务)
+    * [duckdb](db/duckdb的使用)
 
 * 业务场景
 
