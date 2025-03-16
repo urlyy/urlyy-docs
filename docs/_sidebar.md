@@ -27,9 +27,11 @@
 
 
 * 分布式
+    
 
-    * [outer guide](/guide)
-* [java](java/)
+* java
+    * [java test](java/gui)
+
 
 
 
