@@ -20,8 +20,8 @@
     * mq
 
 * 数据库
-    * [mysql事务](db/mysql事务)
-    * [duckdb](db/duckdb的使用)
+    * [mysql事务](mysql事务.md)
+    * [duckdb](duckdb的使用.md)
 
 * 业务场景
 
@@ -37,5 +37,5 @@
 
 * 协同开发
 
-    * [github配置](cooperate/github配置)
-    * [git的使用](cooperate/git的使用)
+    * [github配置](协同开发/github配置.md)
+    * [git的使用](协同开发/git的使用.md)
