@@ -1,5 +1,5 @@
-# 代码拾光
-在写作中加深自己的理解，不指望成为像小林coding那样的教程。
+# 编程拾光
+在写作中加深自己的理解，希望成为像小林coding那样的教程。
 
 参考
 - [javaguide](https://javaguide.cn/home.html)

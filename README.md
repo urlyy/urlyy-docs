@@ -1,4 +1,4 @@
-# 代码拾光仓库
+# 编程拾光仓库
 本项目基于 [docsify](https://docsify.js.org) 搭建
 
 docsify 插件仓库：[awesome-docsify](https://github.com/docsifyjs/awesome-docsify?tab=readme-ov-file#plugins)
