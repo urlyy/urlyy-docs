@@ -1,41 +1,144 @@
 * [首页](/)
+* Java
+    * 基本组成
+    * 集合
+        * List
+        * Map
+        * Set
+    * 并发
+        * 直接相关的API
+        * 锁
+        * 并发容器
+            * ConcurrentHashmap
+            * cas
+        * 线程池
+        * 线程屏障
+    * JVM
+        * GC
+        * 参数
+        * 性能调试
+        * JIT
+    * 框架
+        * Tomcat
+        * Netty
+        * Mybatis
+        * Spring
+    * 其他
+        * 函数式编程
+        * ANTLR
 
-* 编程语言
-    * java
-        * [guide](java/gui)
-    * golang
+* Rust
+    * 生命周期
+    * 宏
+    * 并发
+    * 常用的内置API
 
-    * rust
+* Golang
+    * 代码优化
+    * 编码风格
+    * 版本
+    * 并发
+    * channel
+    * Gin
+    * gRPC
 
-* 计网
-
-
-* 操作系统
-
+* 关系型数据库
+    * 数据库结构
+    * innodb
+    * 数据同步
+    * sql编写技巧
+    * duckdb的使用
 
 * 中间件
+    * 整体介绍
+    * Redis
+        * 数据类型
+        * 版本
+        * 日志
+        * 哨兵集群
+    * MQ
+        * RocketMQ
+        * Kafka
+    * MongoDB
+        * 数据模型
+        * 版本
 
-    * redis
 
-    * mq
+* 软件工程
+    * 设计模式
+    * 权限设计
+    * Github仓库管理
+    * 系统架构
+    * 插件适配
+    * 人月神话
+    * 权衡的艺术
 
-* 数据库
-    * [mysql事务](mysql事务.md)
-    * [duckdb](duckdb的使用.md)
+* 高性能技巧
+    * 异步编程
+    * NIO
+    * 流式响应
+    * SIMD
+    * Protobuf
+    * 分布式计算
+    * Direct-I/O
+    * 接口请求合并
 
-* 业务场景
+* 软件测试
+    * 压力测试
+    * Fuzzing
+    * CICD
+    * Mock
 
+* 运维
+    * 反向代理
+    * Docker
 
 * 分布式
-    
+    * CAP
+    * 接口设计
+    * Raft
 
-* java
-    * [java test](java/gui)
+* AI
+    * 大模型
+        * 提示词
+        * Agent
+        * MCP
 
+* 面经杂题
+    * java
+    * 操作系统
+        * LRU
+    * 计算机网络
+        * 分层
 
-
-
-* 协同开发
-
-    * [github配置](协同开发/github配置.md)
-    * [git的使用](协同开发/git的使用.md)
+* 其他
+    * 如何完成网站备案
+    * 可白嫖的Serverless服务
+    * 插件开发
+    * 程序人生
+    * 注意身体
+    * 视频制作工具
+    * 可视化
+    * 量化交易
+    * 爬虫
+    * 前端开发
+    * 食谱
+    * 学术界技术概览
+    * 阅读
+    * 云原生
+    * 杂谈
+    * 资源分享
+    * 杂技
+        * git的使用
+        * 二维码的实现
+        * 大文件传输
+        * 定时任务
+        * 短链接
+        * 广告业务
+        * 即时通信
+        * 支付业务
+        * oAuth2
+        * 高并发
+        * token
+        * 文件压缩与恢复
+        * 如何参与开源
