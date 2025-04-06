@@ -12,14 +12,15 @@
   <nav>
     <a href="https://newsnow-e3v.pages.dev" target="_blank">新闻</a>
     <!-- <a href="http://urlyy.github.io" target="_blank">作者博客</a> -->
-    <a href="https://github.com/urlyy/urlyy-docs" target="_blank">仓库地址</a>
   </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+      name: '编程拾光',
+      repo: "https://github.com/urlyy/urlyy-docs",
       loadSidebar: true,
+      sidebarDisplayLevel: 1,
+      subMaxLevel: 4,
       homepage: 'home.md',
       count:{
         countable:true,
@@ -43,11 +44,21 @@
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
   <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+
   <script src="https://cdn.jsdelivr.net/npm/docsify-beian@latest/dist/beian.min.js"></script>
+
   <!-- <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
+  
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
+  
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
 </body>
 
