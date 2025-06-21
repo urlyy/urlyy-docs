@@ -7,3 +7,5 @@
 - [Road2coding](https://www.r2coding.com/#/?id=spring系列框架)
 - [pdai.tech](https://pdai.tech/md/interview/x-interview.html)
 - [advanced-java](https://java.doocs.org/#/)
+- [二哥的Java进阶之路](https://javabetter.cn)
+- [美团技术文档](https://tech.meituan.com)
